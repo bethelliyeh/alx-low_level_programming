@@ -1,8 +1,8 @@
-#include <stad.h>
+#include <stdio.h>
 /**
- * main - entry point
+ * main -Entry point
  *
- * return: always 0 (sucess)
+ * Return: Always 0 (sucess)
  */
 int main(void)
 {
