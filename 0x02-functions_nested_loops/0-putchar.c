@@ -1,12 +1,12 @@
 #include <stdio.h>
 
-/*
- * main - print line
- * description print char
+/**
+ * main - Entry point
+ * description: working with standard library
  * print new line
  *
  * Return: 0
- */
+ **/
 
 int main(void)
 {
